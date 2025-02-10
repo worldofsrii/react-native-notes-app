@@ -110,3 +110,5 @@ resource "aws_instance" "react_native_notes" {
     Name = "ReactNativeNotesAppInstance"
   }
 }
+
+
